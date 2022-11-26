@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b28899f.css",
-    "main.js": "/static/js/main.0b55c718.js",
-    "static/media/logo.png": "/static/media/logo.602a006417eba879a65a.png",
-    "index.html": "/index.html",
-    "main.5b28899f.css.map": "/static/css/main.5b28899f.css.map",
-    "main.0b55c718.js.map": "/static/js/main.0b55c718.js.map"
+    "main.css": "/PBL-UI/static/css/main.5b28899f.css",
+    "main.js": "/PBL-UI/static/js/main.0d0dcaac.js",
+    "static/media/logo.png": "/PBL-UI/static/media/logo.602a006417eba879a65a.png",
+    "index.html": "/PBL-UI/index.html",
+    "main.5b28899f.css.map": "/PBL-UI/static/css/main.5b28899f.css.map",
+    "main.0d0dcaac.js.map": "/PBL-UI/static/js/main.0d0dcaac.js.map"
   },
   "entrypoints": [
     "static/css/main.5b28899f.css",
-    "static/js/main.0b55c718.js"
+    "static/js/main.0d0dcaac.js"
   ]
 }
