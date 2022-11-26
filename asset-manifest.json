@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PBL-UI/static/css/main.5b28899f.css",
-    "main.js": "/PBL-UI/static/js/main.ce9ce541.js",
+    "main.js": "/PBL-UI/static/js/main.cba41b9a.js",
     "static/media/logo.png": "/PBL-UI/static/media/logo.602a006417eba879a65a.png",
     "index.html": "/PBL-UI/index.html",
     "main.5b28899f.css.map": "/PBL-UI/static/css/main.5b28899f.css.map",
-    "main.ce9ce541.js.map": "/PBL-UI/static/js/main.ce9ce541.js.map"
+    "main.cba41b9a.js.map": "/PBL-UI/static/js/main.cba41b9a.js.map"
   },
   "entrypoints": [
     "static/css/main.5b28899f.css",
-    "static/js/main.ce9ce541.js"
+    "static/js/main.cba41b9a.js"
   ]
 }
